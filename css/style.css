@@ -459,7 +459,7 @@
 .row {
     margin-top: 48px;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     width: 1128px;
     height: 420px;
